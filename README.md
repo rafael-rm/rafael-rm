@@ -1,6 +1,6 @@
-<img align="center" alt="Rafael Rodrigues Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafael-rm&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&custom_title=Estatísticas&border_color=000000&border_radius=16"/>
+<img align="center" alt="Rafael Rodrigues Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafael-rm&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=false&custom_title=Estatísticas&border_color=3b3b3b&border_radius=16"/>
 <br>
-<img align="center" alt="Rafael Rodrigues Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-rm&theme=vue-dark&count_private=true&hide=shell,jupyter%20notebook&custom_title=Linguagens%20mais%20usadas&border_color=000000&border_radius=16"/>
+<img align="center" alt="Rafael Rodrigues Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-rm&theme=vue-dark&count_private=true&hide=shell,jupyter%20notebook&custom_title=Linguagens%20mais%20usadas&border_color=3b3b3b&border_radius=16"/>
 <br>
 
 <div class="languages">
