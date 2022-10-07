@@ -9,3 +9,5 @@
   <img align="center" title="Python alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
+![Snake animation](https://github.com/rafael-rm/rafael-rm/blob/output/github-contribution-grid-snake.svg)
+
