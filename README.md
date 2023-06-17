@@ -3,7 +3,7 @@
   🖖 Olá, meu nome é Rafael Rodrigues e sou desenvolvedor back-end
   </p>
   <p align="left">
-  ☕ Habilidades: <strong>C, C++, C#, Java e Python#</strong>
+  ☕ Habilidades: <strong>C, C++, C#, Java e Python</strong>
   </p>
 </div>
 
