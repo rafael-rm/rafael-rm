@@ -13,4 +13,4 @@
   <a href = "mailto:rafael.rmo@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>     
 </div>
 
-![Snake animation](https://github.com/rafael-rm/rafael-rm/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rafael-rm/rafael-rm/blob/output/github-snake-dark.svg)
